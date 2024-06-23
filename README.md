@@ -1,1 +1,1 @@
-# springboot-k8s-yaml
+# springboot-kubernetes-deployment
